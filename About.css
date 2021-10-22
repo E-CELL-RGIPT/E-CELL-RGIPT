@@ -250,7 +250,7 @@ secbox:nth-child(1) {
 }
 
 .background{
-    background: rgba(12, 12, 12, 0.7) url('IMAGES/final.jfif');
+    background: rgba(12, 12, 12, 0.7) url('IMAGES/rgipt.jpg');
     background-size: cover;
     background-blend-mode: darken;
     background-attachment: fixed;
